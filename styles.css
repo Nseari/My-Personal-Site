@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+hr {
+    width: 4%;
+
+}
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    line-height: 2px;
+}
+h2 {
+    color:#66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+    background-color:azure;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud {
+    position: absolute; 
+    right: 300px;
+    top: 50px;
+}    
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    margin: 40px 0 50px 0;
+}
+    
+.middle-container {
+    
+    
+}
+.bottom-container {
+    background-color: #66BFBF;
+    
+   
+}
+.pro {
+    text-decoration: underline;
+}
+.contact-me {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+a {
+    color: #11999E;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+}
+.skill-row {
+    margin: 100px auto 100px auto;
+    width:50%;
+    text-align: left;
+    line-height: 2;
+}
+.computer-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+.chillies-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+/***********
+.computer-programmering-description
+{
+    clear: left;
+}
+.Graphic-design-description {
+    clear: right;
+}****************/
+#copy-right {
+    color: #EAF6F6;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #455057);
+    background-image: -moz-linear-gradient(top, #3498db, #455057);
+    background-image: -ms-linear-gradient(top, #3498db, #455057);
+    background-image: -o-linear-gradient(top, #3498db, #455057);
+    background-image: linear-gradient(to bottom, #3498db, #455057);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #377360;
+    background-image: -webkit-linear-gradient(top, #377360, #7cb392);
+    background-image: -moz-linear-gradient(top, #377360, #7cb392);
+    background-image: -ms-linear-gradient(top, #377360, #7cb392);
+    background-image: -o-linear-gradient(top, #377360, #7cb392);
+    background-image: linear-gradient(to bottom, #377360, #7cb392);
+    text-decoration: none;
+  }
+  .copy-right{
+      color: white; 
+      font-size: 0.75rem;
+  }
