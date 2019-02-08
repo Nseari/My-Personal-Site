@@ -103,8 +103,8 @@ a:hover {
     background-image: -ms-linear-gradient(top, #3498db, #455057);
     background-image: -o-linear-gradient(top, #3498db, #455057);
     background-image: linear-gradient(to bottom, #3498db, #455057);
-    -webkit-border-radius: 8;
-    -moz-border-radius: 4;
+    -webkit-border-radius: 4;
+    -moz-border-radius: 2;
     border-radius: 2px;
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
