@@ -105,11 +105,11 @@ a:hover {
     background-image: linear-gradient(to bottom, #3498db, #455057);
     -webkit-border-radius: 8;
     -moz-border-radius: 4;
-    border-radius: 4px;
+    border-radius: 2px;
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
-    font-size: 20px;
-    padding: 10px 20px 10px 20px;
+    font-size: 10px;
+    padding: 5px 10px 5px 10px;
     text-decoration: none;
   }
   
