@@ -10,7 +10,7 @@ hr {
 }
 h1 {
     color: #66BFBF;
-    font-size: 5.625rem;
+    font-size: 3.125rem;
     margin-top: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
     line-height: 2px;
@@ -104,8 +104,8 @@ a:hover {
     background-image: -o-linear-gradient(top, #3498db, #455057);
     background-image: linear-gradient(to bottom, #3498db, #455057);
     -webkit-border-radius: 8;
-    -moz-border-radius: 8;
-    border-radius: 8px;
+    -moz-border-radius: 4;
+    border-radius: 4px;
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
     font-size: 20px;
